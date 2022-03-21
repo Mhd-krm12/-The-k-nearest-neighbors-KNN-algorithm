@@ -34,7 +34,11 @@ def main():
 
 	# k'ye vermek istediğimiz değer
 	k = 3
-	group_name= "Bad" if format(knn_classify(points,p,k))==0 else "Good" 
+	group_name= "" 
+	if   (knn_classify(points,p,k))==0:
+		group_name= "Bad" 
+	elif (knn_classify(points,p,k))==1:
+		group_name= "Good" 
 
 	print ("test ettiğimiz nokta  "+ group_name +"  sınıfına aittir")
 
