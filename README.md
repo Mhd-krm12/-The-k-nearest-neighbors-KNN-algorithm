@@ -1,6 +1,6 @@
 # KNN-algorithm
 
-![şekil1](https://user-images.githubusercontent.com/65572032/159425143-e07117ca-e3de-4633-a21a-2fddff4400a9.png)
+            ![şekil1](https://user-images.githubusercontent.com/65572032/159425143-e07117ca-e3de-4633-a21a-2fddff4400a9.png)
 
 K-NN ( K-Nearest Neighbor) algoritması en basit ve en çok kullanılan sınıflandırma algoritmasından biridir. 
 -	Avantajları: basit ve gürültülü eğitim verilerine karşı dirençli olması sebebiyle en popüler Gözetimli makine öğrenme algoritmalarından biridir.
@@ -29,10 +29,10 @@ Teorik örnek:
 
 (şekil2)'de 10 tane verimiz olsun. X1=8 ve X2=4 değerleri için en yakın komşu bulma algoritmasını kullanarak hangi sınıfa ait olduğunu bulalım. K=4 verilmiş olsun. Öklid uzaklık fonksiyonunu kullanarak;
 
-![şekil2](https://user-images.githubusercontent.com/65572032/159424762-52b9b4de-3d2e-4a02-a2d4-429afc62c29d.png)
+            ![şekil2](https://user-images.githubusercontent.com/65572032/159424762-52b9b4de-3d2e-4a02-a2d4-429afc62c29d.png)
 
 
-![2 1](https://user-images.githubusercontent.com/65572032/159425231-ab2efa3d-5878-4b12-a97c-5d42b6e6ff5a.png)
+            ![2 1](https://user-images.githubusercontent.com/65572032/159425231-ab2efa3d-5878-4b12-a97c-5d42b6e6ff5a.png)
 
 
 
