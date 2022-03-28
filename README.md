@@ -24,7 +24,7 @@ Eğitim verilerini öğrenmez, bunun yerine eğitim veri kümesini “ezberler�
 
 
 
-Teorik örnek:
+örnek:
 
 
 (şekil2)'de 10 tane verimiz olsun. X1=8 ve X2=4 değerleri için en yakın komşu bulma algoritmasını kullanarak hangi sınıfa ait olduğunu bulalım. K=4 verilmiş olsun. Öklid uzaklık fonksiyonunu kullanarak;
@@ -43,7 +43,7 @@ Hesaplamaları yaptık şimdi en yakın 4 noktayı alıp bakacağız. 2.24, 2.83
 
 
 
-
+*** Uygulamanın kodu ektiki knn.py dosyasındadır.
 
 
 
