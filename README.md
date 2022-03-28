@@ -1,6 +1,9 @@
 # KNN-algorithm
+------------------
 
-  ![şekil1](https://user-images.githubusercontent.com/65572032/159425143-e07117ca-e3de-4633-a21a-2fddff4400a9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65572032/159425143-e07117ca-e3de-4633-a21a-2fddff4400a9.png" />
+</p>
 
 K-NN ( K-Nearest Neighbor) algoritması en basit ve en çok kullanılan sınıflandırma algoritmasından biridir. 
 -	Avantajları: basit ve gürültülü eğitim verilerine karşı dirençli olması sebebiyle en popüler Gözetimli makine öğrenme algoritmalarından biridir.
