@@ -1,3 +1,5 @@
+#KNN Algoritması
+
 import math
 
 def knn_classify(points,p,k=3):
